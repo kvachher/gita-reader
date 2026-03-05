@@ -39,6 +39,38 @@ make run
 
 Then open `http://localhost:8000`.
 
+## Testing
+
+Recommended day-to-day command:
+
+```bash
+GITA_TEST_VERBOSE=1 make test
+```
+
+This runs all unit tests with per-person validation logs.
+
+How validation works (expected vs actual):
+
+- `Expected` is computed directly from the workbook logistics sheets (`Wednesday` to `Sunday`) by scanning each non-empty cell and assigning it to people via:
+  - explicit name matches in cell text
+  - group propagation for `ALL_BOARD`, `ALL_LIAISONS`, and `ALL_VOLUNTEERS`
+- `Actual` is computed from the generated dashboard data model (`TodoBuilder(...).build()`), using each person’s extracted logistics tasks.
+- The tests compare normalized `(sheet, role/column, full cell text)` signatures for every person, and also compare the `ALL_*` subset separately.
+
+Other useful commands:
+
+```bash
+make test
+```
+
+Runs unit tests only.
+
+```bash
+make coverage
+```
+
+Runs unit tests and prints per-file + total line coverage summary for `gita_reader`.
+
 ## Deploy to Render
 
 This repo is ready for Render:
