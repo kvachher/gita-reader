@@ -1,0 +1,152 @@
+# Sneha Ganatra - Personal To-Do
+
+## Important Information
+- Mixer | The Bethesdan Hotel Tapestry Collection by Hilton | 8120 Wisconsin Ave, Bethesda, MD 20814
+- Hotel | The Bethesdan Hotel Tapestry Collection by Hilton | 8120 Wisconsin Ave, Bethesda, MD 20814
+- Venue | John F. Kennedy High School | 1901 Randolph Rd, Wheaton, MD 20902
+- AP | Aura Bar & Lounge | 5247 Wisconsin Ave NW, Washington, DC 20015
+- Airport | BWI | 7050 Friendship Rd, Baltimore, MD
+- Airport Train Station | BWI AMTRAK | 7 Amtrak Way, BWI Airport, Baltimore, MD 21240
+- NotMe | EVERYONE | Report and investigate misconduct during Masti
+- Life360 | EVERYONE | Know where everyone is
+
+## Responsibilities
+- [6:00 PM] [6:00 PM] Costco Trip
+
+Jessica, Annika Patel, Vaishu, Sneha, Krushi, Param, Om in ParamVan and UHaul
+
+to Costco
+
+from College Park | Wednesday Logistics | column: BOARD
+- [5:00 PM] [5:00 PM] Air Mattresses
+
+Mattress Gang - Om, Mit, Neha, Suhani, Mun in KushCar
+
+to AV Williams
+
+from UView | Thursday Logistics | column: BOARD
+- [7:00 PM] [7:00 PM] Hosp Suite Set Up
+
+Jessica, Annika Patel, Sneha, Mun, Mit, Om, Kavi, Krushi, Bhrugu in ParamVan, OmCar, HospCar
+
+ Param in UHaul (+1 passenger)
+to The Bethesdan to set up Hosp Suite 
+
+from UView | Thursday Logistics | column: BOARD
+- [12:00 AM] [12:00 AM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [9:00 AM] [9:00 AM] Mixer Setup
+
+Mun, Kaavya, Neha, Assigned Board Members set up for Mixer
+in Rosedale Room | Friday Logistics | column: ROSEDALE
+- [10:00 AM] [10:00 AM] Neha Leaves
+
+Neha in NehaCar 
+
+to Bethesdan
+
+from College Park | Friday Logistics | column: BOARD
+- [2:00 PM] [2:00 PM] MunCar Leaves
+
+Mun, Sneha, Harini, Alisha, Rachit in MunCar
+
+to Bethesdan
+
+from College Park | Friday Logistics | column: BOARD
+- [2:00 PM] [2:00 PM] MunCar Leaves
+
+Mun, Sneha, Harini, Alisha, Rachit in MunCar
+
+to Bethesdan
+
+from College Park | Friday Logistics | column: LIAISONS
+- [2:00 PM] [2:00 PM] MunCar Leaves
+
+Mun, Sneha, Harini, Alisha, Rachit in MunCar
+
+to Bethesdan
+
+from College Park | Friday Logistics | column: VOLUNTEERS
+- [3:00 PM] [3:00 PM] Mun, Neha, Kaavya, Suhani, Krushi, Kripa, Anushka, Saloni go to Bethesdan Ballroom to start mixer set-up | Friday Logistics | column: BETHESDAN BALLROOM
+- [6:30 PM] ALL_BOARD LOCATED AT HOTEL EXCEPT HOSP to Ballroom
+
+MIXER SCHEDULE | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
+- [9:00 PM] [9:00 PM] MIXER CLEAN-UP
+
+Mun, Neha, ALL_BOARD who is free and at Hotel move Mixer materials back into Rosedale | Friday Logistics | column: ROSEDALE
+- [9:00 PM] [9:00 PM] MIXER CLEAN-UP
+
+Mun, Neha, ALL_BOARD who is free and at Hotel move Mixer materials back into Rosedale | Friday Logistics | column: ROSEDALE (Shared Board responsibility)
+- [9:30 PM] [9:30 PM] Leave for Post-Props Set Up Walkthrough
+
+Krushi, Bhrugu, Ojal, Neha, Suhani in KrushiCar, JudgingCar 
+
+to The Bethesdan
+
+from JFK
+
+for Venue Walkthrough | Friday Logistics | column: JFK HS
+- [10:00 PM] [10:00 PM] ALL_BOARD Post Mixer Practice  
+
+Kadaru, Kaavya run post-mixer timing
+
+Anushka, Saloni assist post-mixer timing
+
+Singhvi, Om run cycling in Ballroom Lobby
+
+Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
+- [10:45] [10:45] Neha
+
+Arrives at Bethesdan | Friday Logistics | column: BETHESDAN HOTEL
+- [12:00 AM] [12:00 AM] Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi leave on Bus 3 with Team7, Team8 | Saturday Logistics | column: BOARD
+- [6:00 AM] [6:00 AM] ALL_BOARD wakes up | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [6:30 AM] [6:30 AM] Jessica, Annika, Sneha and Vaishu set aside Extra Breakfast for Tech Time Crew | Saturday Logistics | column: BOARD
+- [7:35 AM] [7:35 AM] Fleet2 Leaves
+
+Neha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives 
+Team2 to JFK | Saturday Logistics | column: BOARD
+- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
+
+Neha, Isha on Saree Duty
+
+ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD
+- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
+
+Neha, Isha on Saree Duty
+
+ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
+
+Neha, Isha on Saree Duty
+
+ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS
+- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
+
+Neha, Isha on Saree Duty
+
+ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
+- [4:00 PM] [4:00 PM] Rest of Board Leaves
+
+
+ ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+
+ to JFK
+
+from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board responsibility)
+- [4:30 PM] [4:30 PM] Rest of Board Arrives
+
+
+ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+
+ arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [7:35 PM] [7:35 PM] Sneha, Jessica, Vaishu, and Annika distribute Pizza and Alcohol to Team Rooms | Saturday Logistics | column: BETHESDAN HOTEL
+- [7:15 AM] [7:15 AM] Annika, Jessica, Sneha, Mahi prepare for Breakfast | Sunday Logistics | column: BETHESDAN HOTEL
+- [11:00 AM] [11:00 AM] Suhani, Judge in NehaCar leaves to drive Judge to Metro Station | Sunday Logistics | column: BOARD
+- Transport: | Saturday Travel Logistics | column: Driver (Route:  ->)
+
+## Group Membership
+- Category: board
+- Committee: Hospitality
+- Board: Yes
+- Liaison: No
