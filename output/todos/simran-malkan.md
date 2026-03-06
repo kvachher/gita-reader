@@ -11,48 +11,7 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [8:00 AM] [8:00 AM] KrushiCar leaves
-
-Krushi, Simran, Gunna, Saloni in KrushiCar
-
-to JFK
-
-from Standard | Friday Logistics | column: BOARD
-- [8:00 AM] [8:00 AM] KrushiCar leaves
-
-Krushi, Simran, Gunna, Saloni in KrushiCar
-
-to JFK
-
-from Standard | Friday Logistics | column: LIAISONS
-- [8:45 AM] [8:45 AM] Board Arrives
-
-Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi
-
-in BoardCars
-
-arrive at Bethesdan | Friday Logistics | column: BETHESDAN HOTEL
-- [3:00 PM] [3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4
-
-
- in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar 
-
-to JFK
-
-from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
-- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4
-
-
- in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar 
-
- arrives at JFK | Saturday Logistics | column: JFK HS - TRANSPORT
-- [5:30 AM] Transport: UF | Sunday Travel Logistics | column: Driver (Route: Bethesdan Hotel -> BWI)
-- [2:00 PM] Transport: UCB | Sunday Travel Logistics | column: Driver (Route: Bethesdan -> BWI)
-- [5:00 PM] Airport pickup for Columbia | Friday Travel Logistics | column: Driver (Rider: Misha Patel)
-- Transport: | Saturday Travel Logistics | column: Driver (Route:  ->)
-- Transport: UCB | Sunday Travel Logistics | column: Driver (Route:  ->)
-- Transport: UCF | Sunday Travel Logistics | column: Driver (Route:  ->)
-- Transport: UF | Sunday Travel Logistics | column: Driver (Route:  ->)
+- No responsibilities detected from workbook
 
 ## Group Membership
 - Category: other

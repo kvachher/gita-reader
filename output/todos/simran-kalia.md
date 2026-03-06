@@ -12,6 +12,27 @@
 
 ## Responsibilities
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [8:00 AM] [8:00 AM] KrushiCar leaves
+
+Krushi, Simran, Gunna, Saloni in KrushiCar
+
+to JFK
+
+from Standard | Friday Logistics | column: BOARD
+- [8:00 AM] [8:00 AM] KrushiCar leaves
+
+Krushi, Simran, Gunna, Saloni in KrushiCar
+
+to JFK
+
+from Standard | Friday Logistics | column: LIAISONS
+- [8:45 AM] [8:45 AM] Board Arrives
+
+Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi
+
+in BoardCars
+
+arrive at Bethesdan | Friday Logistics | column: BETHESDAN HOTEL
 - [6:30 PM] ALL_BOARD LOCATED AT HOTEL EXCEPT HOSP to Ballroom
 
 MIXER SCHEDULE | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
@@ -35,6 +56,20 @@ POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibil
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [3:00 PM] [3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4
+
+
+ in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar 
+
+to JFK
+
+from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
+- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4
+
+
+ in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar 
+
+ arrives at JFK | Saturday Logistics | column: JFK HS - TRANSPORT
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
@@ -59,6 +94,13 @@ ALL_BOARD in ALL REMAINING BOARD CARS
 to Bethesdan
 
 from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [5:30 AM] Transport: UF | Sunday Travel Logistics | column: Driver (Route: Bethesdan Hotel -> BWI)
+- [2:00 PM] Transport: UCB | Sunday Travel Logistics | column: Driver (Route: Bethesdan -> BWI)
+- [5:00 PM] Airport pickup for Columbia | Friday Travel Logistics | column: Driver (Rider: Misha Patel)
+- Transport: | Saturday Travel Logistics | column: Driver (Route:  ->)
+- Transport: UCB | Sunday Travel Logistics | column: Driver (Route:  ->)
+- Transport: UCF | Sunday Travel Logistics | column: Driver (Route:  ->)
+- Transport: UF | Sunday Travel Logistics | column: Driver (Route:  ->)
 
 ## Group Membership
 - Category: board

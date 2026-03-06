@@ -1143,9 +1143,9 @@ def build_html_viewer(data: dict[str, object]) -> str:
 <body>
   <div class="wrap">
     <div class="tabs">
-      <a class="tab" href="./index.html">🗓️ Calendar</a>
-      <a class="tab active" href="./personal.html">🎯 Personal Gitas</a>
-      <a class="tab" href="./info.html">📇 Contacts & Info</a>
+      <a class="tab" href="/calendar">🗓️ Calendar</a>
+      <a class="tab active" href="/personal">🎯 Personal Gitas</a>
+      <a class="tab" href="/info">📇 Contacts & Info</a>
     </div>
     <div class="card">
       <h1>🎯 Personal Gitas</h1>
@@ -1507,9 +1507,9 @@ def build_calendar_viewer(data: dict[str, object]) -> str:
 <body>
   <div class="wrap">
     <div class="tabs">
-      <a class="tab active" href="./index.html">🗓️ Calendar</a>
-      <a class="tab" href="./personal.html">🎯 Personal Gitas</a>
-      <a class="tab" href="./info.html">📇 Contacts & Info</a>
+      <a class="tab active" href="/calendar">🗓️ Calendar</a>
+      <a class="tab" href="/personal">🎯 Personal Gitas</a>
+      <a class="tab" href="/info">📇 Contacts & Info</a>
     </div>
     <div class="card">
       <h1 style="margin:0 0 10px;">🗓️ Full Logistics Calendar (Wed-Sun)</h1>
@@ -1642,9 +1642,9 @@ def build_info_viewer(data: dict[str, object]) -> str:
 <body>
   <div class="wrap">
     <div class="tabs">
-      <a class="tab" href="./index.html">🗓️ Calendar</a>
-      <a class="tab" href="./personal.html">🎯 Personal Gitas</a>
-      <a class="tab active" href="./info.html">📇 Contacts & Info</a>
+      <a class="tab" href="/calendar">🗓️ Calendar</a>
+      <a class="tab" href="/personal">🎯 Personal Gitas</a>
+      <a class="tab active" href="/info">📇 Contacts & Info</a>
     </div>
     <div class="card">
       <h1 style="margin:0 0 10px;">📇 Contacts</h1>

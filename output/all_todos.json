@@ -1,6 +1,6 @@
 {
   "source_file": "MM19 Gita.xlsx",
-  "generated_at": "2026-03-05T23:01:04",
+  "generated_at": "2026-03-05T23:19:39",
   "important_information": [
     {
       "item": "Mixer",
@@ -12049,216 +12049,7 @@
       },
       "category": "other",
       "committee": "",
-      "tasks": [
-        {
-          "sheet": "Friday Logistics",
-          "when": "8:45 AM",
-          "summary": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
-          "details": "",
-          "role": "BETHESDAN HOTEL",
-          "parsed": {
-            "format": "route_arrive",
-            "time": "8:45 AM",
-            "title": "Board Arrives",
-            "full_text": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
-            "body": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\nin BoardCars\narrive at Bethesdan",
-            "people": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi",
-            "car": "BoardCars",
-            "at": "Bethesdan"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "3:15 PM",
-          "summary": "[3:15 PM] Pickup_7 Leaves \n\nMahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK\n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
-          "details": "",
-          "role": "LIAISONS",
-          "parsed": {
-            "format": "route_depart",
-            "time": "3:15 PM",
-            "title": "Pickup_7 Leaves",
-            "full_text": "[3:15 PM] Pickup_7 Leaves \n\nMahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK\n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)\n\n[3:15 PM] PrajapatiCar Leaves for Pickup_7\n\nPrajapati in PrajapatiCar\n\nto BWI Amtrak\n\nfrom CollegePark\n\nfor COL Pickup 7 (16)",
-            "body": "Mahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar\nto BWI AMTRAK\nfrom Bethesdan\nfor COL Pickup 7 (16)",
-            "people": "Mahi, SisterKavya, Sista",
-            "car": "MahiVan, KavyaCar, SistaCar",
-            "to": "BWI AMTRAK",
-            "from": "Bethesdan",
-            "purpose": "COL Pickup 7 (16)"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "3:15 PM",
-          "summary": "[3:15 PM] Pickup_7 Leaves \n\nSista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK \n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
-          "details": "",
-          "role": "MOTORPOOL/CAR",
-          "parsed": {
-            "format": "route_depart",
-            "time": "3:15 PM",
-            "title": "Pickup_7 Leaves",
-            "full_text": "[3:15 PM] Pickup_7 Leaves \n\nSista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK \n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
-            "body": "Sista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar\nto BWI AMTRAK\nfrom Bethesdan\nfor COL Pickup 7 (16)",
-            "people": "Sista, SisterKavya, Mahi",
-            "car": "MahiVan, KavyaCar, SistaCar",
-            "to": "BWI AMTRAK",
-            "from": "Bethesdan",
-            "purpose": "COL Pickup 7 (16)"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "4:15 PM",
-          "summary": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
-          "details": "",
-          "role": "LIAISONS",
-          "parsed": {
-            "format": "route_arrive",
-            "time": "4:15 PM",
-            "title": "Pickup_7 Arrives",
-            "full_text": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
-            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at BWI AMTRAK\nfor COL Pickup 7 (16)",
-            "people": "Prajapati, Sista, SisterKavya, Mahi",
-            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
-            "at": "BWI AMTRAK",
-            "purpose": "COL Pickup 7 (16)"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "4:15 PM",
-          "summary": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
-          "details": "",
-          "role": "MOTORPOOL/CAR",
-          "parsed": {
-            "format": "route_arrive",
-            "time": "4:15 PM",
-            "title": "Pickup_7 Arrives",
-            "full_text": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
-            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at BWI AMTRAK\nfor COL Pickup 7 (16)",
-            "people": "Prajapati, Sista, SisterKavya, Mahi",
-            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
-            "at": "BWI AMTRAK",
-            "purpose": "COL Pickup 7 (16)"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "5:00 PM",
-          "summary": "[5:00 PM] Pickup_7 Returns\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\n\narrive at Bethesdan \n\nfor COL Pickup 7 (16) Arrival",
-          "details": "",
-          "role": "BETHESDAN HOTEL",
-          "parsed": {
-            "format": "route_arrive",
-            "time": "5:00 PM",
-            "title": "Pickup_7 Returns",
-            "full_text": "[5:00 PM] VT Expected to fully arrive\n\n[5:00 PM] Pickup_7 Returns\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\n\narrive at Bethesdan \n\nfor COL Pickup 7 (16) Arrival",
-            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at Bethesdan\nfor COL Pickup 7 (16) Arrival",
-            "people": "Prajapati, Sista, SisterKavya, Mahi",
-            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
-            "at": "Bethesdan",
-            "purpose": "COL Pickup 7 (16) Arrival"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "12:00 AM",
-          "summary": "[12:00 AM] Bus4 Leaves\n\nOm, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 \n\nto Aura Bar\n\nfrom Bethesdan",
-          "details": "",
-          "role": "BOARD",
-          "parsed": {
-            "format": "route_depart",
-            "time": "12:00 AM",
-            "title": "Bus4 Leaves",
-            "full_text": "[12:00 AM] Bus4 Leaves\n\nOm, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 \n\nto Aura Bar\n\nfrom Bethesdan",
-            "body": "Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3\nto Aura Bar\nfrom Bethesdan",
-            "people": "Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8",
-            "car": "Bus3",
-            "to": "Aura Bar",
-            "from": "Bethesdan"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "7:35 AM",
-          "summary": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK",
-          "details": "",
-          "role": "BOARD",
-          "parsed": {
-            "format": "raw",
-            "time": "7:35 AM",
-            "title": "Fleet2 Leaves",
-            "full_text": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK",
-            "body": "Neha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives\nTeam2 to JFK",
-            "raw": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "3:00 PM",
-          "summary": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
-          "details": "",
-          "role": "JFK HS - TRANSPORT",
-          "parsed": {
-            "format": "raw",
-            "time": "3:00 PM",
-            "title": "Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4",
-            "full_text": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
-            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar\nto JFK\nfrom Bethesdan",
-            "raw": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "3:30 PM",
-          "summary": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
-          "details": "",
-          "role": "JFK HS - TRANSPORT",
-          "parsed": {
-            "format": "raw",
-            "time": "3:30 PM",
-            "title": "Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4",
-            "full_text": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
-            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar\narrives at JFK",
-            "raw": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "10:00 PM",
-          "summary": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
-          "details": "",
-          "role": "JFK HS",
-          "parsed": {
-            "format": "raw",
-            "time": "10:00 PM",
-            "title": "ALL_BOARD Venue Cleanup Gang Starts Cleanup",
-            "full_text": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
-            "body": "Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
-            "raw": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan"
-          }
-        },
-        {
-          "sheet": "Friday Travel Logistics",
-          "when": "4:15 PM",
-          "summary": "Airport pickup for Columbia",
-          "details": "Rider: Luca Rios",
-          "role": "Driver"
-        },
-        {
-          "sheet": "Show Schedule",
-          "when": "4:56 PM",
-          "summary": "Indian National Anthem singer - Stage",
-          "details": "POC assignment",
-          "role": "POC"
-        },
-        {
-          "sheet": "Saturday Travel Logistics",
-          "when": "",
-          "summary": "Transport:",
-          "details": "Route:  ->",
-          "role": "Driver"
-        }
-      ]
+      "tasks": []
     },
     "Mahi Ghorakavi": {
       "group_membership": {
@@ -19757,6 +19548,23 @@
       "tasks": [
         {
           "sheet": "Friday Logistics",
+          "when": "8:45 AM",
+          "summary": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
+          "details": "",
+          "role": "BETHESDAN HOTEL",
+          "parsed": {
+            "format": "route_arrive",
+            "time": "8:45 AM",
+            "title": "Board Arrives",
+            "full_text": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
+            "body": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\nin BoardCars\narrive at Bethesdan",
+            "people": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi",
+            "car": "BoardCars",
+            "at": "Bethesdan"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
           "when": "10:00 AM",
           "summary": "[10:00 AM] Liaison Mass Exodus \n\nMihir, Juhi, Ishan, Neera, Dwij, Rachael, Samahith\n\n in MihirCar, JuhiCar, IshanCar, NeeraCar, DwijCar, RachaelCar\n\nto Bethesdan\n\nfrom College Park",
           "details": "",
@@ -19771,6 +19579,98 @@
             "car": "MihirCar, JuhiCar, IshanCar, NeeraCar, DwijCar, RachaelCar",
             "to": "Bethesdan",
             "from": "College Park"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "3:15 PM",
+          "summary": "[3:15 PM] Pickup_7 Leaves \n\nMahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK\n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
+          "details": "",
+          "role": "LIAISONS",
+          "parsed": {
+            "format": "route_depart",
+            "time": "3:15 PM",
+            "title": "Pickup_7 Leaves",
+            "full_text": "[3:15 PM] Pickup_7 Leaves \n\nMahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK\n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)\n\n[3:15 PM] PrajapatiCar Leaves for Pickup_7\n\nPrajapati in PrajapatiCar\n\nto BWI Amtrak\n\nfrom CollegePark\n\nfor COL Pickup 7 (16)",
+            "body": "Mahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar\nto BWI AMTRAK\nfrom Bethesdan\nfor COL Pickup 7 (16)",
+            "people": "Mahi, SisterKavya, Sista",
+            "car": "MahiVan, KavyaCar, SistaCar",
+            "to": "BWI AMTRAK",
+            "from": "Bethesdan",
+            "purpose": "COL Pickup 7 (16)"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "3:15 PM",
+          "summary": "[3:15 PM] Pickup_7 Leaves \n\nSista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK \n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
+          "details": "",
+          "role": "MOTORPOOL/CAR",
+          "parsed": {
+            "format": "route_depart",
+            "time": "3:15 PM",
+            "title": "Pickup_7 Leaves",
+            "full_text": "[3:15 PM] Pickup_7 Leaves \n\nSista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar \n\nto BWI AMTRAK \n\nfrom Bethesdan\n\nfor COL Pickup 7 (16)",
+            "body": "Sista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar\nto BWI AMTRAK\nfrom Bethesdan\nfor COL Pickup 7 (16)",
+            "people": "Sista, SisterKavya, Mahi",
+            "car": "MahiVan, KavyaCar, SistaCar",
+            "to": "BWI AMTRAK",
+            "from": "Bethesdan",
+            "purpose": "COL Pickup 7 (16)"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "4:15 PM",
+          "summary": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
+          "details": "",
+          "role": "LIAISONS",
+          "parsed": {
+            "format": "route_arrive",
+            "time": "4:15 PM",
+            "title": "Pickup_7 Arrives",
+            "full_text": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
+            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at BWI AMTRAK\nfor COL Pickup 7 (16)",
+            "people": "Prajapati, Sista, SisterKavya, Mahi",
+            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
+            "at": "BWI AMTRAK",
+            "purpose": "COL Pickup 7 (16)"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "4:15 PM",
+          "summary": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
+          "details": "",
+          "role": "MOTORPOOL/CAR",
+          "parsed": {
+            "format": "route_arrive",
+            "time": "4:15 PM",
+            "title": "Pickup_7 Arrives",
+            "full_text": "[4:15 PM] Pickup_7 Arrives\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar \n\narrive at BWI AMTRAK \n\nfor COL Pickup 7 (16)",
+            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at BWI AMTRAK\nfor COL Pickup 7 (16)",
+            "people": "Prajapati, Sista, SisterKavya, Mahi",
+            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
+            "at": "BWI AMTRAK",
+            "purpose": "COL Pickup 7 (16)"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "5:00 PM",
+          "summary": "[5:00 PM] Pickup_7 Returns\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\n\narrive at Bethesdan \n\nfor COL Pickup 7 (16) Arrival",
+          "details": "",
+          "role": "BETHESDAN HOTEL",
+          "parsed": {
+            "format": "route_arrive",
+            "time": "5:00 PM",
+            "title": "Pickup_7 Returns",
+            "full_text": "[5:00 PM] VT Expected to fully arrive\n\n[5:00 PM] Pickup_7 Returns\n\nPrajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\n\narrive at Bethesdan \n\nfor COL Pickup 7 (16) Arrival",
+            "body": "Prajapati, Sista, SisterKavya, Mahi in MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar\narrive at Bethesdan\nfor COL Pickup 7 (16) Arrival",
+            "people": "Prajapati, Sista, SisterKavya, Mahi",
+            "car": "MahiVan, SisterKavyaCar, SistaCar, PrajapatiCar",
+            "at": "Bethesdan",
+            "purpose": "COL Pickup 7 (16) Arrival"
           }
         },
         {
@@ -19823,6 +19723,24 @@
         },
         {
           "sheet": "Saturday Logistics",
+          "when": "12:00 AM",
+          "summary": "[12:00 AM] Bus4 Leaves\n\nOm, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 \n\nto Aura Bar\n\nfrom Bethesdan",
+          "details": "",
+          "role": "BOARD",
+          "parsed": {
+            "format": "route_depart",
+            "time": "12:00 AM",
+            "title": "Bus4 Leaves",
+            "full_text": "[12:00 AM] Bus4 Leaves\n\nOm, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 \n\nto Aura Bar\n\nfrom Bethesdan",
+            "body": "Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3\nto Aura Bar\nfrom Bethesdan",
+            "people": "Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8",
+            "car": "Bus3",
+            "to": "Aura Bar",
+            "from": "Bethesdan"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
           "when": "6:00 AM",
           "summary": "[6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK",
           "details": "Shared Liaison responsibility",
@@ -19834,6 +19752,21 @@
             "full_text": "[6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK",
             "body": "",
             "raw": "[6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
+          "when": "7:35 AM",
+          "summary": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK",
+          "details": "",
+          "role": "BOARD",
+          "parsed": {
+            "format": "raw",
+            "time": "7:35 AM",
+            "title": "Fleet2 Leaves",
+            "full_text": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK",
+            "body": "Neha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives\nTeam2 to JFK",
+            "raw": "[7:35 AM] Fleet2 Leaves\n\nNeha, Mahi, Param, Mun, Simran in ParamVan, MahiVan, MunCar, NehaCar, KrushiCar drives \nTeam2 to JFK"
           }
         },
         {
@@ -19868,6 +19801,36 @@
         },
         {
           "sheet": "Saturday Logistics",
+          "when": "3:00 PM",
+          "summary": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
+          "details": "",
+          "role": "JFK HS - TRANSPORT",
+          "parsed": {
+            "format": "raw",
+            "time": "3:00 PM",
+            "title": "Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4",
+            "full_text": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
+            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar\nto JFK\nfrom Bethesdan",
+            "raw": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
+          "when": "3:30 PM",
+          "summary": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
+          "details": "",
+          "role": "JFK HS - TRANSPORT",
+          "parsed": {
+            "format": "raw",
+            "time": "3:30 PM",
+            "title": "Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4",
+            "full_text": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
+            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar\narrives at JFK",
+            "raw": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
           "when": "9:30 PM",
           "summary": "[9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan\n\nALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback)",
           "details": "Shared Liaison responsibility",
@@ -19895,6 +19858,42 @@
             "body": "ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback)",
             "raw": "[9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan\n\nALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback)"
           }
+        },
+        {
+          "sheet": "Saturday Logistics",
+          "when": "10:00 PM",
+          "summary": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
+          "details": "",
+          "role": "JFK HS",
+          "parsed": {
+            "format": "raw",
+            "time": "10:00 PM",
+            "title": "ALL_BOARD Venue Cleanup Gang Starts Cleanup",
+            "full_text": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
+            "body": "Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan",
+            "raw": "[10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  \n \nAnushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan"
+          }
+        },
+        {
+          "sheet": "Friday Travel Logistics",
+          "when": "4:15 PM",
+          "summary": "Airport pickup for Columbia",
+          "details": "Rider: Luca Rios",
+          "role": "Driver"
+        },
+        {
+          "sheet": "Show Schedule",
+          "when": "4:56 PM",
+          "summary": "Indian National Anthem singer - Stage",
+          "details": "POC assignment",
+          "role": "POC"
+        },
+        {
+          "sheet": "Saturday Travel Logistics",
+          "when": "",
+          "summary": "Transport:",
+          "details": "Route:  ->",
+          "role": "Driver"
         }
       ]
     },
@@ -19957,6 +19956,59 @@
             "format": "raw",
             "raw": "ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING",
             "full_text": "ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "8:00 AM",
+          "summary": "[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
+          "details": "",
+          "role": "BOARD",
+          "parsed": {
+            "format": "route_depart",
+            "time": "8:00 AM",
+            "title": "KrushiCar leaves",
+            "full_text": "[8:00 AM] BhruguVan leaves\n\n Bhrugu, Mit, Ojal Kaavya, Singhvi in BhruguVan\n\nto Bethesdan \n\nfrom UView\n\n[8:00 AM] SistaCar leaves\n\nSista, Kadaru, Banda, Mahi in SistaCar\n\nto JFK\n\nfrom Standard\n\n[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
+            "body": "Krushi, Simran, Gunna, Saloni in KrushiCar\nto JFK\nfrom Standard",
+            "people": "Krushi, Simran, Gunna, Saloni",
+            "car": "KrushiCar",
+            "to": "JFK",
+            "from": "Standard"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "8:00 AM",
+          "summary": "[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
+          "details": "",
+          "role": "LIAISONS",
+          "parsed": {
+            "format": "route_depart",
+            "time": "8:00 AM",
+            "title": "KrushiCar leaves",
+            "full_text": "[8:00 AM] BhruguVan leaves\n\n Bhrugu, Mit, Ojal Kaavya, Singhvi in BhruguVan\n\nto Bethesdan\n\nfrom UView\n\n[8:00 AM] SistaCar leaves\n\nSista, Kadaru, Banda, Mahi in SistaCar\n\nto JFK\n\nfrom Standard\n\n[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
+            "body": "Krushi, Simran, Gunna, Saloni in KrushiCar\nto JFK\nfrom Standard",
+            "people": "Krushi, Simran, Gunna, Saloni",
+            "car": "KrushiCar",
+            "to": "JFK",
+            "from": "Standard"
+          }
+        },
+        {
+          "sheet": "Friday Logistics",
+          "when": "8:45 AM",
+          "summary": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
+          "details": "",
+          "role": "BETHESDAN HOTEL",
+          "parsed": {
+            "format": "route_arrive",
+            "time": "8:45 AM",
+            "title": "Board Arrives",
+            "full_text": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
+            "body": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\nin BoardCars\narrive at Bethesdan",
+            "people": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi",
+            "car": "BoardCars",
+            "at": "Bethesdan"
           }
         },
         {
@@ -20048,6 +20100,36 @@
         },
         {
           "sheet": "Saturday Logistics",
+          "when": "3:00 PM",
+          "summary": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
+          "details": "",
+          "role": "JFK HS - TRANSPORT",
+          "parsed": {
+            "format": "raw",
+            "time": "3:00 PM",
+            "title": "Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4",
+            "full_text": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
+            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar\nto JFK\nfrom Bethesdan",
+            "raw": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
+          "when": "3:30 PM",
+          "summary": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
+          "details": "",
+          "role": "JFK HS - TRANSPORT",
+          "parsed": {
+            "format": "raw",
+            "time": "3:30 PM",
+            "title": "Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4",
+            "full_text": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
+            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar\narrives at JFK",
+            "raw": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK"
+          }
+        },
+        {
+          "sheet": "Saturday Logistics",
           "when": "4:00 PM",
           "summary": "[4:00 PM] Rest of Board Leaves\n\n\n ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) \n\n to JFK\n\nfrom Bethesdan",
           "details": "Shared Board responsibility",
@@ -20113,126 +20195,6 @@
             "to": "Bethesdan",
             "from": "JFK"
           }
-        }
-      ]
-    },
-    "Simran Khotra": {
-      "group_membership": {
-        "board": false,
-        "liaison": false,
-        "volunteer": true
-      },
-      "category": "volunteer",
-      "committee": "",
-      "tasks": [
-        {
-          "sheet": "Saturday Logistics",
-          "when": "4:00 PM",
-          "summary": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK",
-          "details": "Shared Volunteer responsibility",
-          "role": "VOLUNTEERS",
-          "parsed": {
-            "format": "raw",
-            "time": "4:00 PM",
-            "title": "ALL_VOLUNTEERS arrive at JFK",
-            "full_text": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK",
-            "body": "",
-            "raw": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK"
-          }
-        }
-      ]
-    },
-    "Simran Malkan": {
-      "group_membership": {
-        "board": false,
-        "liaison": false,
-        "volunteer": false
-      },
-      "category": "other",
-      "committee": "",
-      "tasks": [
-        {
-          "sheet": "Friday Logistics",
-          "when": "8:00 AM",
-          "summary": "[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
-          "details": "",
-          "role": "BOARD",
-          "parsed": {
-            "format": "route_depart",
-            "time": "8:00 AM",
-            "title": "KrushiCar leaves",
-            "full_text": "[8:00 AM] BhruguVan leaves\n\n Bhrugu, Mit, Ojal Kaavya, Singhvi in BhruguVan\n\nto Bethesdan \n\nfrom UView\n\n[8:00 AM] SistaCar leaves\n\nSista, Kadaru, Banda, Mahi in SistaCar\n\nto JFK\n\nfrom Standard\n\n[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
-            "body": "Krushi, Simran, Gunna, Saloni in KrushiCar\nto JFK\nfrom Standard",
-            "people": "Krushi, Simran, Gunna, Saloni",
-            "car": "KrushiCar",
-            "to": "JFK",
-            "from": "Standard"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "8:00 AM",
-          "summary": "[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
-          "details": "",
-          "role": "LIAISONS",
-          "parsed": {
-            "format": "route_depart",
-            "time": "8:00 AM",
-            "title": "KrushiCar leaves",
-            "full_text": "[8:00 AM] BhruguVan leaves\n\n Bhrugu, Mit, Ojal Kaavya, Singhvi in BhruguVan\n\nto Bethesdan\n\nfrom UView\n\n[8:00 AM] SistaCar leaves\n\nSista, Kadaru, Banda, Mahi in SistaCar\n\nto JFK\n\nfrom Standard\n\n[8:00 AM] KrushiCar leaves\n\nKrushi, Simran, Gunna, Saloni in KrushiCar\n\nto JFK\n\nfrom Standard",
-            "body": "Krushi, Simran, Gunna, Saloni in KrushiCar\nto JFK\nfrom Standard",
-            "people": "Krushi, Simran, Gunna, Saloni",
-            "car": "KrushiCar",
-            "to": "JFK",
-            "from": "Standard"
-          }
-        },
-        {
-          "sheet": "Friday Logistics",
-          "when": "8:45 AM",
-          "summary": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
-          "details": "",
-          "role": "BETHESDAN HOTEL",
-          "parsed": {
-            "format": "route_arrive",
-            "time": "8:45 AM",
-            "title": "Board Arrives",
-            "full_text": "[8:45 AM] Board Arrives\n\nBhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\n\nin BoardCars\n\narrive at Bethesdan",
-            "body": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi\nin BoardCars\narrive at Bethesdan",
-            "people": "Bhrugu, Mit, Kadaru, Suhani, Kaavya, Sista, Ojal, Banda, Krushi, Simran, Gunna, Saloni, Mahi",
-            "car": "BoardCars",
-            "at": "Bethesdan"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "3:00 PM",
-          "summary": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
-          "details": "",
-          "role": "JFK HS - TRANSPORT",
-          "parsed": {
-            "format": "raw",
-            "time": "3:00 PM",
-            "title": "Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4",
-            "full_text": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan",
-            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar\nto JFK\nfrom Bethesdan",
-            "raw": "[3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar \n\nto JFK\n\nfrom Bethesdan"
-          }
-        },
-        {
-          "sheet": "Saturday Logistics",
-          "when": "3:30 PM",
-          "summary": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
-          "details": "",
-          "role": "JFK HS - TRANSPORT",
-          "parsed": {
-            "format": "raw",
-            "time": "3:30 PM",
-            "title": "Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4",
-            "full_text": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK",
-            "body": "in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar\narrives at JFK",
-            "raw": "[3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4\n\n\n in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar \n\n arrives at JFK"
-          }
         },
         {
           "sheet": "Sunday Travel Logistics",
@@ -20284,6 +20246,42 @@
           "role": "Driver"
         }
       ]
+    },
+    "Simran Khotra": {
+      "group_membership": {
+        "board": false,
+        "liaison": false,
+        "volunteer": true
+      },
+      "category": "volunteer",
+      "committee": "",
+      "tasks": [
+        {
+          "sheet": "Saturday Logistics",
+          "when": "4:00 PM",
+          "summary": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK",
+          "details": "Shared Volunteer responsibility",
+          "role": "VOLUNTEERS",
+          "parsed": {
+            "format": "raw",
+            "time": "4:00 PM",
+            "title": "ALL_VOLUNTEERS arrive at JFK",
+            "full_text": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK",
+            "body": "",
+            "raw": "[4:00 PM] ALL_VOLUNTEERS arrive at JFK"
+          }
+        }
+      ]
+    },
+    "Simran Malkan": {
+      "group_membership": {
+        "board": false,
+        "liaison": false,
+        "volunteer": false
+      },
+      "category": "other",
+      "committee": "",
+      "tasks": []
     },
     "Siya Patel": {
       "group_membership": {
