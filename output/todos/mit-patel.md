@@ -26,8 +26,6 @@ Jessica, Annika Patel, Sneha, Mun, Mit, Om, Kavi, Krushi, Bhrugu in ParamVan, Om
 to The Bethesdan to set up Hosp Suite 
 
 from UView | Thursday Logistics | column: BOARD
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [8:00 AM] [8:00 AM] BhruguVan leaves
 
@@ -58,7 +56,7 @@ to BWI
 
 from Bethesdan
 
-for UTD Pickup 6 (13) | Friday Logistics | column: MOTORPOOL/CAR
+for UTD Pickup 6 (14) | Friday Logistics | column: MOTORPOOL/CAR
 - [5:00 PM] [5:00 PM] Props Team Leaves **ALL_LIAISONS MUST DRIVE 5 TEAM MEMBERS TO JFK HS**
 
 Diya, Mihir, Anjali, Ishan, Juhi, Anish, Megha, Prajapati in DiyaCar, MihirCar, AyushiCar, IshanCar, JuhiCar, DwijCar, MeghaCar, PrajapatiCar
@@ -73,7 +71,7 @@ Mit in Batmobile
 
 arrives at BWI 
 
-for UTD Pickup 6 (13) | Friday Logistics | column: MOTORPOOL/CAR
+for UTD Pickup 6 (14) | Friday Logistics | column: MOTORPOOL/CAR
 - [6:30 PM] ALL_BOARD LOCATED AT HOTEL EXCEPT HOSP to Ballroom
 
 MIXER SCHEDULE | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
@@ -83,7 +81,7 @@ Param and Mit in ParamVan and Batmobile
 
 arrives at Bethesdan
 
-for UF Pickup 4, UTD Pickup 6 (13 + 5) Arrival | Friday Logistics | column: BETHESDAN HOTEL
+for UF Pickup 4, UTD Pickup 6 (14 + 5) Arrival | Friday Logistics | column: BETHESDAN HOTEL
 - [9:00 PM] [9:00 PM] MIXER CLEAN-UP
 
 Mun, Neha, ALL_BOARD who is free and at Hotel move Mixer materials back into Rosedale | Friday Logistics | column: ROSEDALE (Shared Board responsibility)
@@ -107,8 +105,10 @@ Singhvi, Om run cycling in Ballroom Lobby
 Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS DRIVING LIAISONS MUST MOVE FROM VENUE -> BETHESDAN** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS REPORT FOR LIAISON MEETING** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [6:00 AM] [6:00 AM] ALL_BOARD wakes up | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [6:00 AM] [6:00 AM] ALL LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [6:00 AM] [6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [6:55 AM] [6:55 AM] Fleet1 Leaves
 
 Neel, Sista, Mit in Batmobile, SistaCar, BhruguVan drives 
@@ -118,13 +118,10 @@ Team1 to JFK | Saturday Logistics | column: BOARD
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
-
-Neha, Isha on Saree Duty
-
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
 - [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: BOARD
 - [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: BOARD (Shared Liaison responsibility)
+- [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: LIAISONS
+- [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [3:00 PM] [3:00 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4
 
 
@@ -133,16 +130,16 @@ ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board r
 to JFK
 
 from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
-- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4
+- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4
 
 
- in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar 
+ in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar 
 
  arrives at JFK | Saturday Logistics | column: JFK HS - TRANSPORT
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
@@ -153,23 +150,68 @@ from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board r
 ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
 - [10:30 PM] [10:30 PM] Mit in Batmobile back to Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
-- [11:30 PM] [11:30 PM] Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru leave on Bus 2 and 3 with Team4, Team5, Team6 | Saturday Logistics | column: BOARD
-- [3:15 PM] [3:15 PM] Mit, Atmik in Batmobile Leaves to BWI for UTD (8)
+- [11:30 PM] [11:30 PM] Bus 2+3 Leave
 
-From Bethesdan | Sunday Logistics | column: BOARD
-- [4:00 PM] [4:00 PM] Mit, Atmik in Batmobile Arrives at BWI for UTD (8) | Sunday Logistics | column: BOARD
-- [4:45 PM] [4:45 PM] Kush picks up Mit from enterprise rental CP | Sunday Logistics | column: BOARD
-- [4:45 PM] [4:45 PM] Mit in Batmobile Arrives returns to College Park to 
+ Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru, Team4, Team5, Team6 in Bus2, Bus3 
 
-Return the Batmobile
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
+- [3:15 PM] [3:15 PM] Mit dropoff
+
+Mit, Atmik in Batmobile 
+
+Leaves to BWI
+
+From Bethesdan
+
+for UTD (8) and Judge dropoff | Sunday Logistics | column: BOARD
+- [4:00 PM] [4:00 PM] Atmik + UTD Drop Off
+
+Mit, Atmik in Batmobile 
+
+arrives at BWI 
+
+for UTD (8) Dropoff | Sunday Logistics | column: BOARD
+- [4:45 PM] [4:45 PM] Batmobile back to Batcave
+
+Mit in Batmobile 
+
+to EnterpriseCP
 
 9321 Baltimore Ave
-College Park, MD, US, 20740 | Sunday Logistics | column: BOARD
+College Park, MD, US, 20740
+
+for Batmobile Return | Sunday Logistics | column: BOARD
+- [4:45 PM] [4:45 PM] COMP FINISHED AYEE
+
+Kush in KushCar
+
+to EnterpriseCP
+
+for Mit Pickup | Sunday Logistics | column: BOARD
 - [6:00 PM] Airport pickup for UTD | Friday Travel Logistics | column: Driver (Rider: Ayushree Patel)
 - RC Car | Friday Board Assignments (Mixer | column: Board
 - Airport pickup for UTD | Friday Travel Logistics | column: Driver (Rider: Shreejhu Sureshkumar)
 - Transport: | Saturday Travel Logistics | column: Driver (Route:  ->)
+- [N/A] Airport pickup for VCU | Friday Travel Logistics | column: Driver (Rider: Vaidehi Bhagat)
 
 ## Group Membership
 - Category: board

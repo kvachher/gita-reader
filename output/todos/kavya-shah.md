@@ -11,18 +11,38 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [10:00 AM] [10:00 AM] Liaison Mass Exodus 
+- [9:45 AM] [9:45 AM] SisterKavya Purdue Pickup
 
-SisterKavya, Mihir, Juhi, Ishan, Neera, Dwij, Rachael
+SisterKavya
 
- in KavyaSisterCar, MihirCar, JuhiCar, IshanCar, NeeraCar, DwijCar, RachaelCar
+ in SisterKavyaCar
 
-to Bethesdan
+to BWI Airport
 
-from College Park | Friday Logistics | column: LIAISONS
+from SisterKavyaResidence
+
+for Purdue Yash Pickup | Friday Logistics | column: LIAISONS
+- [10:15 AM] [10:15 AM] SisterKavya and Purdue Yash Arrive
+
+SisterKavya
+
+ in SisterKavyaCar
+
+arrives at BWI Airport
+
+for Purdue Yash Arrival | Friday Logistics | column: BETHESDAN HOTEL
+- [10:15 AM] [10:15 AM] SisterKavya Purdue Pickup
+
+SisterKavya
+
+ in SisterKavyaCar
+
+arrives at BWI Airport
+
+for Purdue Yash Pickup | Friday Logistics | column: MOTORPOOL/CAR
 - [3:15 PM] [3:15 PM] Pickup_7 Leaves 
 
-Sista, SisterKavya, Mahi in MahiVan, KavyaCar, SistaCar 
+Mahi, SisterKavya, Sista in MahiVan, KavyaCar, SistaCar 
 
 to BWI AMTRAK
 
@@ -70,8 +90,15 @@ from Bethesdan | Friday Logistics | column: LIAISONS (Shared Liaison responsibil
 - [8:30 PM] [8:30 PM] SisterKavya takes Team Photos | Friday Logistics | column: BETHESDAN BALLROOM
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS DRIVING LIAISONS MUST MOVE FROM VENUE -> BETHESDAN** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS REPORT FOR LIAISON MEETING** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
-- [6:00 AM] [6:00 AM] ALL LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [6:00 AM] [6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: BOARD (Shared Liaison responsibility)
+- [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [4:15 PM] Airport pickup for Columbia | Friday Travel Logistics | column: Driver (Rider: Ramya Mohan)
 
 ## Group Membership

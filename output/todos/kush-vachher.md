@@ -11,7 +11,6 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [1:30 PM] Kush Om | Thursday Logistics | column: General
 - [5:00 PM] [5:00 PM] Air Mattresses
 
 Mattress Gang - Om, Mit, Neha, Suhani, Mun in KushCar
@@ -19,8 +18,6 @@ Mattress Gang - Om, Mit, Neha, Suhani, Mun in KushCar
 to AV Williams
 
 from UView | Thursday Logistics | column: BOARD
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [1:00 PM] [1:00 PM] KushCar Leaves
 
@@ -37,7 +34,7 @@ to Bethesdan
 from UView | Friday Logistics | column: LIAISONS
 - [4:30 PM] [4:30 PM] Props Set Up **Car takes Marathon with them for all 40 team members**
 
-Kavi, Banda, Suhaan, Kush in KaviCar and KushCar 
+Kavi, Banda, Suhaan, Kush, Karthik in KaviCar and KushCar 
 
 to JFK 
 
@@ -66,9 +63,12 @@ Kush, Trijal, Banda, Karthik, Suhaan in KushCar, TrijalCar
 to The Bethesdan
 
 from JFK | Friday Logistics | column: JFK HS
-- [5:45 AM] [5:45 AM] Tech Time Crew + Bhrugu Wake Up 
-
-Singhvi, Kavi, Kush, Trijal, Banda, Karthik, Suhaan, Bhrugu, Ojal, Kaavya, Kripa wake up | Saturday Logistics | column: BOARD
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [4:45 AM] [4:45 AM] Directors_Log wake up | Saturday Logistics | column: BOARD (Shared Directors Log responsibility)
+- [5:00 AM] [5:00 AM] Directors_Log wakes up Kadaru, Sista for Dunkin pickup | Saturday Logistics | column: BOARD (Shared Directors Log responsibility)
+- [5:00 AM] [5:00 AM] Directors_Log wakes up Mun, Saloni for Starbucks pickup | Saturday Logistics | column: BOARD (Shared Directors Log responsibility)
+- [5:00 AM] [5:00 AM] Directors_Log wakes up Param,Anushka for Ice/Cooler pickup from Walmart | Saturday Logistics | column: BOARD (Shared Directors Log responsibility)
 - [6:00 AM] [6:00 AM] ALL_BOARD wakes up | Saturday Logistics | column: BOARD (Shared Board responsibility)
 - [6:15 AM] [6:15 AM] Singhvi, Kavi, Kush, Trijal, Banda, Karthik, Suhaan, Bhrugu, Ojal, Kaavya, Kripa in KaviCar, KushCar 
 
@@ -87,15 +87,10 @@ for Walkie Talkies, Ice Compresses, and Tape Delivery | Saturday Logistics | col
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
-
-Neha, Isha on Saree Duty
-
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
@@ -106,8 +101,30 @@ from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board r
 ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
-- [11:00 PM] [11:00 PM] Kavi, Kush, Trijal, Karthik, Kripa leave on Bus 1 with Team1, Team2, Team3 | Saturday Logistics | column: BOARD
-- [4:45 PM] [4:45 PM] Kush picks up Mit from enterprise rental CP | Sunday Logistics | column: BOARD
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [11:10 PM] [11:10 PM] Bus 1 Leaves
+
+Kavi, Kush, Trijal, Karthik, Kripa,  Team1, Team2, Team3 in Bus1 
+
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
+- [4:45 PM] [4:45 PM] COMP FINISHED AYEE
+
+Kush in KushCar
+
+to EnterpriseCP
+
+for Mit Pickup | Sunday Logistics | column: BOARD
 
 ## Group Membership
 - Category: board

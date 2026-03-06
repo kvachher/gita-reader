@@ -35,9 +35,7 @@ from CollegePark | Friday Logistics | column: MOTORPOOL/CAR
 
 Param, Srijay in ParamVan, Batmobile 
 
-Arrive at CollegePark
-
-from Enterprise | Friday Logistics | column: MOTORPOOL/CAR
+Arrive at UView | Friday Logistics | column: MOTORPOOL/CAR
 
 ## Group Membership
 - Category: other

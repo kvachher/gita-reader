@@ -29,8 +29,6 @@ from UView | Thursday Logistics | column: BOARD
 - [11:00 PM] [11:00 PM] Hosp  Overnight Stay
 
 Jessica, Annika Patel, Suhani Shah in HospCar and UHaul to Stay Overnight at The Bethesdan | Thursday Logistics | column: BOARD
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [6:30 PM] ALL_BOARD LOCATED AT HOTEL EXCEPT HOSP to Ballroom
 
@@ -47,7 +45,15 @@ Anushka, Saloni assist post-mixer timing
 Singhvi, Om run cycling in Ballroom Lobby
 
 Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
-- [12:00 AM] [12:00 AM] Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi leave on Bus 3 with Team7, Team8 | Saturday Logistics | column: BOARD
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [12:00 AM] [12:00 AM] Bus4 Leaves
+
+Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 
+
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
 - [6:00 AM] [6:00 AM] ALL_BOARD wakes up | Saturday Logistics | column: BOARD (Shared Board responsibility)
 - [6:30 AM] [6:30 AM] Jessica, Annika, Sneha and Vaishu set aside Extra Breakfast for Tech Time Crew | Saturday Logistics | column: BOARD
 - [2:00 PM] [2:00 PM] ALL_BOARD GET READY
@@ -55,15 +61,10 @@ Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shar
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
-
-Neha, Isha on Saree Duty
-
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
@@ -75,6 +76,16 @@ ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s)
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
 - [7:35 PM] [7:35 PM] Sneha, Jessica, Vaishu, and Annika distribute Pizza and Alcohol to Team Rooms | Saturday Logistics | column: BETHESDAN HOTEL
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
 - [7:15 AM] [7:15 AM] Annika, Jessica, Sneha, Mahi prepare for Breakfast | Sunday Logistics | column: BETHESDAN HOTEL
 
 ## Group Membership

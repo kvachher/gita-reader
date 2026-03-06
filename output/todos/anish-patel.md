@@ -17,12 +17,12 @@ Param in ParamVan
 
 leaves for Standard
 
-from View | Friday Logistics | column: MOTORPOOL/CAR
+from UView | Friday Logistics | column: MOTORPOOL/CAR
 - [8:15AM] [8:15AM] Pickup Anish
 
 Param, Anish in ParamVan
 
-leaves for View
+leaves for UView
 
 from Standard | Friday Logistics | column: MOTORPOOL/CAR
 - [8:30 AM] [8:30 AM] Pickup_1 Leaves 
@@ -31,7 +31,7 @@ Anish and Param in Batmobile and ParamVan
 
 leave for BWI
 
-from Enterprise
+from CollegePark
 
 for UF Pickup 1 (16) | Friday Logistics | column: MOTORPOOL/CAR
 - [9:15 AM] [9:15 AM] Pickup_1 Arrives 
@@ -96,8 +96,15 @@ Diya, Mihir, Anjali, Ishan, Juhi, Anish, Megha, Prajapati in DiyaCar, MihirCar, 
 arrives at Bethesdan | Friday Logistics | column: BETHESDAN HOTEL
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS DRIVING LIAISONS MUST MOVE FROM VENUE -> BETHESDAN** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS REPORT FOR LIAISON MEETING** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
-- [6:00 AM] [6:00 AM] ALL LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [6:00 AM] [6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: BOARD (Shared Liaison responsibility)
+- [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [9:15 AM] Airport pickup for UF | Friday Travel Logistics | column: Driver (Rider: Aarav Patel)
 
 ## Group Membership

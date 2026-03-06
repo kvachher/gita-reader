@@ -21,8 +21,6 @@ from UView | Thursday Logistics | column: BOARD
 - [11:00 PM] [11:00 PM] Hosp  Overnight Stay
 
 Jessica, Annika Patel, Suhani Shah in HospCar and UHaul to Stay Overnight at The Bethesdan | Thursday Logistics | column: BOARD
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [12:20 AM] [12:20 AM] Suhani arrives to Bethesdan
 
 Suhani arrives at Bethesdan
@@ -73,7 +71,15 @@ from JFK | Friday Logistics | column: MOTORPOOL/CAR
 Suhani arrives at BWI
 
 for Judging Pickup | Friday Logistics | column: MOTORPOOL/CAR
-- [12:00 AM] [12:00 AM] Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi leave on Bus 3 with Team7, Team8 | Saturday Logistics | column: BOARD
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
+- [12:00 AM] [12:00 AM] Bus4 Leaves
+
+Om, Sista, Suhani, Banda, Annika, Jessica, Sneha, Mahi, Team7, Team8 in Bus3 
+
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
 - [6:00 AM] [6:00 AM] ALL_BOARD wakes up | Saturday Logistics | column: BOARD (Shared Board responsibility)
 - [6:20 AM] [6:20 AM] Simran, Suhani, Neha recieve Breakfast | Saturday Logistics | column: BOARD
 - [6:30 AM] [6:30 AM] Simran, Suhani, Neha drop off Breakfast to Hosp Suite | Saturday Logistics | column: BOARD
@@ -83,11 +89,6 @@ for Judging Pickup | Friday Logistics | column: MOTORPOOL/CAR
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
-
-Neha, Isha on Saree Duty
-
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
 - [3:45 PM] [3:45 PM] Suhani, Judges in JudgingCar
 
 to JFK
@@ -96,7 +97,7 @@ from Bethesdan | Saturday Logistics | column: BOARD
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
@@ -107,7 +108,25 @@ from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board r
 ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
-- [11:00 AM] [11:00 AM] Suhani, Judge in NehaCar leaves to drive Judge to Metro Station | Sunday Logistics | column: BOARD
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [9:15 AM] [9:15 AM] Judge Drop Off
+
+Suhani, Judge in NehaCar 
+
+to Metro Station
+
+from Bethesdan
+
+for Judge Drop Off | Sunday Logistics | column: BOARD
 - [4:45 PM] Escort Judges to Seats | Show Schedule | column: POC (POC assignment)
 - [4:53 PM] American National Anthem singer - Stage | Show Schedule | column: POC (POC assignment)
 

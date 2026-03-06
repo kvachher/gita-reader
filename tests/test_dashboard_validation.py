@@ -49,6 +49,11 @@ def _is_all_volunteer(role: str, text: str) -> bool:
     return "ALL_VOLUNTEER" in probe or "ALL VOLUNTEER" in probe or "ALL VOLUNTEERS" in probe
 
 
+def _is_directors_log(role: str, text: str) -> bool:
+    probe = f"{role} {text}".upper()
+    return "DIRECTORS_LOG" in probe or "DIRECTORS LOG" in probe
+
+
 class DashboardSpreadsheetValidationTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
@@ -65,6 +70,7 @@ class DashboardSpreadsheetValidationTest(unittest.TestCase):
         cls.board_members = set(groups.get("board_members", []))
         cls.liaisons = set(groups.get("liaisons", []))
         cls.volunteers = set(groups.get("volunteers", []))
+        cls.directors_members = set(cls.builder.directors_members)
         cls.verbose_logs = os.getenv("GITA_TEST_VERBOSE", "").lower() in {"1", "true", "yes", "on"}
         if cls.verbose_logs:
             cls._log(f"Loaded workbook: {cls.xlsx_path}")
@@ -117,6 +123,9 @@ class DashboardSpreadsheetValidationTest(unittest.TestCase):
                             expected[person].add(signature)
                     if _is_all_volunteer(role, cell_text):
                         for person in self.volunteers:
+                            expected[person].add(signature)
+                    if _is_directors_log(role, cell_text):
+                        for person in self.directors_members:
                             expected[person].add(signature)
 
         return expected

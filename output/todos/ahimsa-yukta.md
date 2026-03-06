@@ -11,7 +11,13 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- No responsibilities detected from workbook
+- [12:30 PM] [12:30 PM] AyushiCar Leaves
+
+Anjali, Ahimsa, Ayushi in AyushiCar
+
+to Bethesdan
+
+from College Park | Friday Logistics | column: LIAISONS
 
 ## Group Membership
 - Category: other

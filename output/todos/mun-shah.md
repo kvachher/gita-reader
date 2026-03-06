@@ -11,8 +11,6 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [1:00 PM] Mun | Thursday Logistics | column: General
-- [1:00 PM] Mun Pavan Neel | Thursday Logistics | column: General
 - [5:00 PM] [5:00 PM] Air Mattresses
 
 Mattress Gang - Om, Mit, Neha, Suhani, Mun in KushCar
@@ -28,8 +26,6 @@ Jessica, Annika Patel, Sneha, Mun, Mit, Om, Kavi, Krushi, Bhrugu in ParamVan, Om
 to The Bethesdan to set up Hosp Suite 
 
 from UView | Thursday Logistics | column: BOARD
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [9:00 AM] [9:00 AM] Mixer Setup
 
@@ -75,6 +71,8 @@ Anushka, Saloni assist post-mixer timing
 Singhvi, Om run cycling in Ballroom Lobby
 
 Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [5:00 AM] [5:00 AM] Directors_Log wakes up Mun, Saloni for Starbucks pickup | Saturday Logistics | column: BOARD
 - [5:30 AM] [5:30 AM] Starbucks Pickup Departure
 
@@ -96,15 +94,18 @@ Team2 to JFK | Saturday Logistics | column: BOARD
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
-
-Neha, Isha on Saree Duty
-
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
+
+ to JFK
+
+from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
+- [4:00 PM] [4:00 PM] Rest of Board Leaves
+
+
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
@@ -115,16 +116,72 @@ from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board r
 ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
-- [10:00 PM] [10:00 PM] Venue Cleanup Gang Starts Cleanup  
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
  
 Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS
-- [11:30 PM] [11:30 PM] Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru leave on Bus 2 and 3 with Team4, Team5, Team6 | Saturday Logistics | column: BOARD
-- [9:00 AM] [9:00 AM] Mun in Batmobile, Sista in SistaCar, leave to drive Columbia (18) to BWI Amtrak from Bethesdan | Sunday Logistics | column: BOARD
-- [9:45 AM] [9:45 AM] Mun in Batmobile, Sista in SistaCar, Arrive to BWI Amtrak | Sunday Logistics | column: BOARD
-- [10:30 AM] [10:30 AM] Mun in Batmobile leaves to drive UF (7) UTD (1) to BWI | Sunday Logistics | column: BOARD
-- [10:30 AM] [10:30 AM] Mun in Batmobile, Sista in SistaCar, Return to Bethesdan | Sunday Logistics | column: BOARD
-- [11:00 AM] [11:00 AM] Mun in Batmobile arrives to drive UF (7) UTD (1) at BWI | Sunday Logistics | column: BOARD
-- [11:45 AM] [11:45 AM] Mun in Batmobile returns to Bethesdan from BWI | Sunday Logistics | column: BOARD
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [11:30 PM] [11:30 PM] Bus 2+3 Leave
+
+ Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru, Team4, Team5, Team6 in Bus2, Bus3 
+
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
+- [9:00 AM] [9:00 AM] Columbia drop off
+
+Mun, Sista in Batmobile, SistaCar 
+
+to BWI Amtrak 
+
+from Bethesdan
+
+ for drive Columbia (18) | Sunday Logistics | column: BOARD
+- [9:45 AM] [9:45 AM] Columbia dropoff
+
+ Mun, Sista in Batmobile, SistaCar 
+
+arrives at BWI Amtrak
+
+for Columbia Drop off (18) | Sunday Logistics | column: BOARD
+- [10:30 AM] [10:30 AM] Columbia Dropoff Return
+
+Mun, Sista in Batmobile, SistaCar
+
+Return to Bethesdan
+
+from BWI | Sunday Logistics | column: BOARD
+- [10:30 AM] [10:30 AM] UF and UTD Dropoff
+
+ Mun in Batmobile
+
+to BWI
+
+from Bethesdan
+
+for UF (7) UTD (1) dropoff | Sunday Logistics | column: BOARD
+- [11:00 AM] [11:00 AM] UF and UTD dropoff
+
+Mun in Batmobile 
+
+arrives at BWI
+
+to drive UF (7) UTD (1) | Sunday Logistics | column: BOARD
+- [11:45 AM] [11:45 AM] Mun Returns from Dropoff
+
+ Mun in Batmobile 
+
+returns to Bethesdan 
+
+from BWI | Sunday Logistics | column: BOARD
 - Emcee/Mixer Chair | Friday Board Assignments (Mixer | column: Board
 - Mixer Chair | Friday Board Assignments (Mixer | column: Board
 - Team Tables | Friday Board Assignments (Mixer | column: Board

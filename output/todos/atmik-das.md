@@ -11,10 +11,22 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [3:15 PM] [3:15 PM] Mit, Atmik in Batmobile Leaves to BWI for UTD (8)
+- [3:15 PM] [3:15 PM] Mit dropoff
 
-From Bethesdan | Sunday Logistics | column: BOARD
-- [4:00 PM] [4:00 PM] Mit, Atmik in Batmobile Arrives at BWI for UTD (8) | Sunday Logistics | column: BOARD
+Mit, Atmik in Batmobile 
+
+Leaves to BWI
+
+From Bethesdan
+
+for UTD (8) and Judge dropoff | Sunday Logistics | column: BOARD
+- [4:00 PM] [4:00 PM] Atmik + UTD Drop Off
+
+Mit, Atmik in Batmobile 
+
+arrives at BWI 
+
+for UTD (8) Dropoff | Sunday Logistics | column: BOARD
 
 ## Group Membership
 - Category: other

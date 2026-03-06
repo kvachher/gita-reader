@@ -40,16 +40,15 @@ arrive at Bethesdan | Friday Logistics | column: BETHESDAN HOTEL
 to JFK
 
 from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT
-- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Simran, Team1, Team2, Team3, Team4
+- [3:30 PM] [3:30 PM] Neel, Param, Mahi, Mit, Sista, Isha, Simran, Team1, Team2, Team3, Team4
 
 
- in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, KrushiCar 
+ in Batmobile, ParamVan, MahiVan, BhruguVan, SistaCar, IshaCar KrushiCar 
 
  arrives at JFK | Saturday Logistics | column: JFK HS - TRANSPORT
 - [5:30 AM] Transport: UF | Sunday Travel Logistics | column: Driver (Route: Bethesdan Hotel -> BWI)
 - [2:00 PM] Transport: UCB | Sunday Travel Logistics | column: Driver (Route: Bethesdan -> BWI)
 - [5:00 PM] Airport pickup for Columbia | Friday Travel Logistics | column: Driver (Rider: Misha Patel)
-- [5:00 PM] Airport pickup for UTD | Friday Travel Logistics | column: Driver (Rider: Misha Patel)
 - Transport: | Saturday Travel Logistics | column: Driver (Route:  ->)
 - Transport: UCB | Sunday Travel Logistics | column: Driver (Route:  ->)
 - Transport: UCF | Sunday Travel Logistics | column: Driver (Route:  ->)

@@ -13,9 +13,9 @@
 ## Responsibilities
 - [10:00 AM] [10:00 AM] Liaison Mass Exodus 
 
-SisterKavya, Mihir, Juhi, Ishan, Neera, Dwij, Rachael
+Mihir, Juhi, Ishan, Neera, Dwij, Rachael, Samahith
 
- in KavyaSisterCar, MihirCar, JuhiCar, IshanCar, NeeraCar, DwijCar, RachaelCar
+ in MihirCar, JuhiCar, IshanCar, NeeraCar, DwijCar, RachaelCar
 
 to Bethesdan
 
@@ -30,15 +30,7 @@ to JFK
 from Bethesdan | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS DRIVING LIAISONS MUST MOVE FROM VENUE -> BETHESDAN** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:00 PM] [10:00 PM] **ALL_LIAISONS REPORT FOR LIAISON MEETING** | Friday Logistics | column: LIAISONS (Shared Liaison responsibility)
-- [6:00 AM] [6:00 AM] ALL LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
-- [10:50 AM] [10:50 AM] Wingstop_Pickup
-
-Rachael in RachaelCar 
-
-to Wingstop
-1403 S Main Chapel Way #103, Gambrills, MD 21054
-
-from College Park | Saturday Logistics | column: BOARD
+- [6:00 AM] [6:00 AM] ALL_LIAISONS NOT SLEEPING AT THE BETHESDAN MUST LEAVE COLLEGE PARK | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 - [10:50 AM] [10:50 AM] Wingstop_Pickup
 
 Rachael in RachaelCar 
@@ -51,14 +43,21 @@ from College Park | Saturday Logistics | column: LIAISONS
 
 Rachael in RachaelCar 
 
-arrives at Wingstop | Saturday Logistics | column: BOARD
+arrives at Wingstop | Saturday Logistics | column: LIAISONS
 - [12:10 PM] [12:10 PM] Wingstop_Pickup returns
 Rachael in RachaelCar 
 
 arrives at Bethesdan
 
-for Wingstop Delivery | Saturday Logistics | column: BETHESDAN HOTEL - TRANSPORT
+for Wingstop Delivery | Saturday Logistics | column: BETHESDAN HOTEL
 - [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: BOARD (Shared Liaison responsibility)
+- [2:45 PM] [2:45 PM] Mit calls ALL_LIAISONS to bring the Teams to the Lobby | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Liaison responsibility)
+- [9:30 PM] [9:30 PM] 1 Bus Arrives at JFK for Departure to Bethesdan
+
+ALL_LIAISONS DRIVING LIAISONS drive Captains to Bethesdan (priority is Teams L1, L2, L3 for post-show feedback) | Saturday Logistics | column: LIAISONS (Shared Liaison responsibility)
 
 ## Group Membership
 - Category: liaison

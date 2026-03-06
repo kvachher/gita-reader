@@ -20,14 +20,14 @@ to UView
 from Union | Friday Logistics | column: BOARD
 - [11:00 AM] [11:00 AM] NeelCar Leaves
 
-Neel, Ayushi, Rona in NeelCar 
+Neel, Rona in NeelCar 
 
 to UView
 
 from Union | Friday Logistics | column: LIAISONS
 - [11:00 AM] [11:00 AM] NeelCar Leaves
 
-Neel, Ayushi, Rona in NeelCar 
+Neel, Rona in NeelCar 
 
 to UView
 
@@ -41,14 +41,14 @@ to Bethesdan
 form UView | Friday Logistics | column: BOARD
 - [11:15 AM] [11:15 AM] NeelCar Leaves
 
-Neel, Ayushi, Anushka, Rona in NeelCar
+Neel, Anushka, Rona in NeelCar
 
 to Bethesdan
 
 form UView | Friday Logistics | column: LIAISONS
 - [11:15 AM] [11:15 AM] NeelCar Leaves
 
-Neel, Ayushi, Anushka, Rona in NeelCar
+Neel, Anushka, Rona in NeelCar
 
 to Bethesdan
 

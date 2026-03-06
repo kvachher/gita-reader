@@ -11,24 +11,14 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [3:55 PM] [3:55 PM] Rangoli_Pickup2
+- [3:30 PM] [3:30 PM] Rangoli_Pickup2
 
 Parth in ParthCar 
 
 to Rangoli Restaurant
 7791-C, 7791 Arundel Mills Blvd, Hanover, MD 21076 
 
-from JFK
-
-for Vada Pav pickup | Saturday Logistics | column: BOARD
-- [3:55 PM] [3:55 PM] Rangoli_Pickup2
-
-Parth in ParthCar 
-
-to Rangoli Restaurant
-7791-C, 7791 Arundel Mills Blvd, Hanover, MD 21076 
-
-from JFK
+from Home
 
 for Vada Pav pickup | Saturday Logistics | column: VOLUNTEERS
 - [4:00 PM] [4:00 PM] ALL_VOLUNTEERS arrive at JFK | Saturday Logistics | column: VOLUNTEERS (Shared Volunteer responsibility)
@@ -37,11 +27,6 @@ for Vada Pav pickup | Saturday Logistics | column: VOLUNTEERS
 Parth in ParthCar arrives at Rangoli Restaurant for Vada Pav pickup
 
 7791-C, 7791 Arundel Mills Blvd, Hanover, MD 21076 | Saturday Logistics | column: VOLUNTEERS
-- [5:20 PM] [5:20 PM] Rangoli_Pickup2 Returns
-
-Parth in ParthCar 
-arrives at Rangoli
-for Vada Pav Delivery | Saturday Logistics | column: JFK HS
 - [5:40 PM] [5:40 PM] Rangoli_Pickup2 Returns
 
 Parth in ParthCar 

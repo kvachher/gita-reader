@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import textwrap
 from collections import defaultdict
 from dataclasses import dataclass
 from datetime import date, datetime, time
@@ -12,10 +13,13 @@ from pathlib import Path
 from typing import Iterable
 
 import openpyxl
+from reportlab.lib.pagesizes import LETTER
+from reportlab.pdfgen import canvas
 
 GROUP_BOARD = "__ALL_BOARD__"
 GROUP_LIAISON = "__ALL_LIAISONS__"
 GROUP_VOLUNTEER = "__ALL_VOLUNTEERS__"
+GROUP_DIRECTORS = "__DIRECTORS_LOG__"
 
 LOGISTICS_SHEETS = [
     "Wednesday Logistics",
@@ -117,9 +121,11 @@ class TodoBuilder:
         self.tasks_by_assignee: dict[str, list[Task]] = defaultdict(list)
         self.calendar_by_sheet: dict[str, dict[str, object]] = {}
         self.nickname_aliases: dict[str, str] = {}
+        self.directors_members: set[str] = set()
 
     def build(self) -> dict[str, object]:
         self._extract_contacts()
+        self._extract_directors_group()
         self._extract_important_info()
         self._extract_logistics_tasks()
         self._extract_calendar()
@@ -128,6 +134,15 @@ class TodoBuilder:
         self._extract_other_roles()
         self._propagate_group_tasks()
         return self._to_export()
+
+    def _extract_directors_group(self) -> None:
+        directors_aliases = ["Om", "Kavi", "Krushi", "Kush", "Singhvi"]
+        members = set()
+        for alias in directors_aliases:
+            person = self._resolve_name(alias)
+            if person:
+                members.add(person)
+        self.directors_members = members
 
     def _extract_contacts(self) -> None:
         ws = self.wb["Board and Liaison Contacts"]
@@ -451,12 +466,15 @@ class TodoBuilder:
         board_tasks = self.tasks_by_assignee.get(GROUP_BOARD, [])
         liaison_tasks = self.tasks_by_assignee.get(GROUP_LIAISON, [])
         volunteer_tasks = self.tasks_by_assignee.get(GROUP_VOLUNTEER, [])
+        directors_tasks = self.tasks_by_assignee.get(GROUP_DIRECTORS, [])
         for person in self.board_members:
             self.tasks_by_assignee[person].extend(board_tasks)
         for person in self.liaisons:
             self.tasks_by_assignee[person].extend(liaison_tasks)
         for person in self.volunteers:
             self.tasks_by_assignee[person].extend(volunteer_tasks)
+        for person in self.directors_members:
+            self.tasks_by_assignee[person].extend(directors_tasks)
 
     def _assign_from_text(self, sheet: str, when: str, role: str, text: str, row_values: list[str]) -> None:
         if not text:
@@ -500,6 +518,18 @@ class TodoBuilder:
                         when=effective_when,
                         summary=segment_text,
                         details="Shared Volunteer responsibility",
+                        role=role,
+                        parsed=parsed,
+                    ),
+                )
+            if self._is_group_directors_task(role, segment_text):
+                self._add_task(
+                    GROUP_DIRECTORS,
+                    Task(
+                        sheet=sheet,
+                        when=effective_when,
+                        summary=segment_text,
+                        details="Shared Directors Log responsibility",
                         role=role,
                         parsed=parsed,
                     ),
@@ -625,6 +655,10 @@ class TodoBuilder:
     def _is_group_volunteer_task(self, role: str, text: str) -> bool:
         test = f"{role} {text}".upper()
         return "ALL_VOLUNTEER" in test or "ALL VOLUNTEER" in test or "ALL VOLUNTEERS" in test
+
+    def _is_group_directors_task(self, role: str, text: str) -> bool:
+        test = f"{role} {text}".upper()
+        return "DIRECTORS_LOG" in test or "DIRECTORS LOG" in test
 
     def _extract_named_people(self, text: str) -> list[str]:
         cleaned = re.sub(r"[\[\](){}*]", " ", text)
@@ -805,6 +839,7 @@ class TodoBuilder:
             "board_tasks": [t.to_dict() for t in self._sorted_tasks(self.tasks_by_assignee.get(GROUP_BOARD, []))],
             "liaison_tasks": [t.to_dict() for t in self._sorted_tasks(self.tasks_by_assignee.get(GROUP_LIAISON, []))],
             "volunteer_tasks": [t.to_dict() for t in self._sorted_tasks(self.tasks_by_assignee.get(GROUP_VOLUNTEER, []))],
+            "directors_tasks": [t.to_dict() for t in self._sorted_tasks(self.tasks_by_assignee.get(GROUP_DIRECTORS, []))],
         }
 
         return {
@@ -827,7 +862,11 @@ def write_outputs(data: dict[str, object], outdir: Path) -> None:
     outdir.mkdir(parents=True, exist_ok=True)
     todos_dir = outdir / "todos"
     todos_dir.mkdir(exist_ok=True)
+    pdf_dir = outdir / "todos_pdf"
+    pdf_dir.mkdir(exist_ok=True)
     for old_file in todos_dir.glob("*.md"):
+        old_file.unlink()
+    for old_file in pdf_dir.glob("*.pdf"):
         old_file.unlink()
 
     with (outdir / "all_todos.json").open("w", encoding="utf-8") as f:
@@ -835,6 +874,72 @@ def write_outputs(data: dict[str, object], outdir: Path) -> None:
 
     important = data.get("important_information", [])
     people = data.get("people", {})
+
+    def write_person_pdf(
+        path: Path,
+        person: str,
+        tasks: list[dict[str, object]],
+        membership: dict[str, object],
+        category: str,
+        committee: str,
+    ) -> None:
+        c = canvas.Canvas(str(path), pagesize=LETTER)
+        page_width, page_height = LETTER
+        left = 48
+        right = page_width - 48
+        y = page_height - 52
+        line_h = 14
+
+        def ensure_room(lines: int = 1) -> None:
+            nonlocal y
+            if y - (lines * line_h) < 52:
+                c.showPage()
+                y = page_height - 52
+                c.setFont("Helvetica", 10)
+
+        def draw_line(text: str = "", bold: bool = False, indent: int = 0) -> None:
+            nonlocal y
+            ensure_room(1)
+            c.setFont("Helvetica-Bold" if bold else "Helvetica", 10)
+            c.drawString(left + indent, y, text)
+            y -= line_h
+
+        max_chars = int((right - left) / 5.5)
+
+        draw_line(f"{person} - Personal To-Do", bold=True)
+        draw_line()
+        draw_line("Important Information", bold=True)
+        if important:
+            for item in important:
+                bits = [item.get("item", ""), item.get("location", ""), item.get("address", "")]
+                bullet = " | ".join(b for b in bits if b)
+                for idx, line in enumerate(textwrap.wrap(bullet, width=max_chars - 2) or [""]):
+                    draw_line(f"- {line}" if idx == 0 else f"  {line}")
+        else:
+            draw_line("- No important information found")
+
+        draw_line()
+        draw_line("Responsibilities", bold=True)
+        if tasks:
+            for task in tasks:
+                when = f"[{task.get('when')}] " if task.get("when") else ""
+                details = f" ({task.get('details')})" if task.get("details") else ""
+                line = f"- {when}{task.get('summary')} | {task.get('sheet')} | column: {task.get('role')}{details}"
+                wrapped = textwrap.wrap(line, width=max_chars) or [line]
+                for wrapped_line in wrapped:
+                    draw_line(wrapped_line)
+        else:
+            draw_line("- No responsibilities detected from workbook")
+
+        draw_line()
+        draw_line("Group Membership", bold=True)
+        draw_line(f"- Category: {category}")
+        if committee:
+            draw_line(f"- Committee: {committee}")
+        draw_line(f"- Board: {'Yes' if membership.get('board') else 'No'}")
+        draw_line(f"- Liaison: {'Yes' if membership.get('liaison') else 'No'}")
+
+        c.save()
 
     for person, payload in people.items():
         tasks = payload.get("tasks", [])
@@ -873,6 +978,7 @@ def write_outputs(data: dict[str, object], outdir: Path) -> None:
 
         slug = slugify(person)
         (todos_dir / f"{slug}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        write_person_pdf(pdf_dir / f"{slug}.pdf", person, tasks, membership, category, committee)
 
     (outdir / "index.html").write_text(build_calendar_viewer(data), encoding="utf-8")
     (outdir / "calendar.html").write_text(build_calendar_viewer(data), encoding="utf-8")
@@ -1004,6 +1110,23 @@ def build_html_viewer(data: dict[str, object]) -> str:
       cursor: pointer;
     }}
     .layout-buttons button.active {{ background: #e8f4ff; color: var(--accent); border-color: #c8def5; }}
+    .download-btn {{
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: #ecf8f2;
+      color: #11694d;
+      padding: 7px 11px;
+      font-size: 0.9rem;
+      font-weight: 600;
+    }}
+    .download-btn[aria-disabled="true"] {{
+      opacity: 0.6;
+      pointer-events: none;
+    }}
     .grid {{
       display: grid;
       gap: 10px;
@@ -1038,6 +1161,7 @@ def build_html_viewer(data: dict[str, object]) -> str:
         <button id="layoutList" class="active">Vertical List</button>
         <button id="layoutGrid">Horizontal Cards</button>
         <button id="layoutDay">Group By Day</button>
+        <a id="downloadGita" class="download-btn" href="#" aria-disabled="true">Download My Gita (.pdf)</a>
       </div>
     </div>
     <div class="card">
@@ -1062,6 +1186,7 @@ def build_html_viewer(data: dict[str, object]) -> str:
     const layoutList = document.getElementById("layoutList");
     const layoutGrid = document.getElementById("layoutGrid");
     const layoutDay = document.getElementById("layoutDay");
+    const downloadGita = document.getElementById("downloadGita");
     const summary = document.getElementById("summary");
     const importantEl = document.getElementById("important");
     const tasksEl = document.getElementById("tasks");
@@ -1138,6 +1263,23 @@ def build_html_viewer(data: dict[str, object]) -> str:
       return taskDiv;
     }}
 
+    function slugifyName(name) {{
+      return name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+    }}
+
+    function updateDownload(person, payload) {{
+      if (!person || !payload) {{
+        downloadGita.setAttribute("aria-disabled", "true");
+        downloadGita.href = "#";
+        downloadGita.removeAttribute("download");
+        return;
+      }}
+      const slug = slugifyName(person) || "personal-gita";
+      downloadGita.href = `./todos_pdf/${{slug}}.pdf`;
+      downloadGita.download = `${{slug}}.pdf`;
+      downloadGita.setAttribute("aria-disabled", "false");
+    }}
+
     function refreshPersonOptions() {{
       const cat = categoryEl.value;
       const comm = committeeEl.value;
@@ -1209,9 +1351,11 @@ def build_html_viewer(data: dict[str, object]) -> str:
       if (!person || !data.people[person]) {{
         tasksEl.innerHTML = "<div class='subtle'>No people match the current filters.</div>";
         summary.textContent = "0 tasks";
+        updateDownload("", null);
         return;
       }}
       const payload = data.people[person];
+      updateDownload(person, payload);
       const needle = taskSearch.value.trim().toLowerCase();
       tasksEl.innerHTML = "";
       const tags = [];

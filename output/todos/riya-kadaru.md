@@ -11,8 +11,6 @@
 - Life360 | EVERYONE | Know where everyone is
 
 ## Responsibilities
-- [12:00 AM] [12:00 AM] ALL_BOARD 
-POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [7:00 AM] ALL_BOARD MUST HAVE BOARD MERCH + PICKUP BREAKFAST AND LUNCH BEFORE ARRIVING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [8:00 AM] [8:00 AM] SistaCar leaves
 
@@ -59,6 +57,8 @@ Anushka, Saloni assist post-mixer timing
 Singhvi, Om run cycling in Ballroom Lobby
 
 Mit, Mahi Liaison Meetings | Friday Logistics | column: BETHESDAN BALLROOM (Shared Board responsibility)
+- [11:59 PM] [11:59 PM] ALL_BOARD 
+POST FRIDAY MEETING | Friday Logistics | column: BOARD (Shared Board responsibility)
 - [5:00 AM] [5:00 AM] Directors_Log wakes up Kadaru, Sista for Dunkin pickup | Saturday Logistics | column: BOARD
 - [5:30 AM] [5:30 AM] Dunkin Pickup Departure
 
@@ -76,26 +76,47 @@ for 6:00 AM Pickup | Saturday Logistics | column: BOARD
 Neha, Isha on Saree Duty
 
 ALL Hotel Board + Fleets | Saturday Logistics | column: BOARD (Shared Board responsibility)
-- [2:00 PM] [2:00 PM] ALL_BOARD GET READY
+- [3:45 PM] [3:45 PM] Team5-6-7 + Kadanushka leave
 
-Neha, Isha on Saree Duty
+Team5, Team6, Team7, Kadaru, Anushka in BUS 
 
-ALL Hotel Board + Fleets | Saturday Logistics | column: LIAISONS (Shared Board responsibility)
+to JFK | Saturday Logistics | column: JFK HS - TRANSPORT
 - [4:00 PM] [4:00 PM] Rest of Board Leaves
 
 
- ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
+ ALL_BOARD Remaining at Hotel in OmCar, MunCar, NehaCar, OmarVan, Rest of BoardCar(s) 
 
  to JFK
 
 from Bethesdan | Saturday Logistics | column: JFK HS - TRANSPORT (Shared Board responsibility)
+- [4:15 PM] [4:15 PM] Team5-6-7 + Kadanushka arrive
+
+Team5, Team6, Team7, Kadaru, Anushkain BUS 
+
+arrives at JFK | Saturday Logistics | column: JFK HS - TRANSPORT
 - [4:30 PM] [4:30 PM] Rest of Board Arrives
 
 
 ALL_BOARD Remaining at Hotel in OmCar, BoardCar(s) 
 
  arrive at JFK | Saturday Logistics | column: JFK HS (Shared Board responsibility)
-- [11:30 PM] [11:30 PM] Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru leave on Bus 2 and 3 with Team4, Team5, Team6 | Saturday Logistics | column: BOARD
+- [10:00 PM] [10:00 PM] ALL_BOARD Venue Cleanup Gang Starts Cleanup  
+ 
+Anushka, Mun, Param, Bhrugu, Mahi, Saloni, Banda, Kaavya, Om, Suhaan | Saturday Logistics | column: JFK HS (Shared Board responsibility)
+- [10:30 PM] [10:30 PM] Board Exits Post Cleanup
+
+ALL_BOARD in ALL REMAINING BOARD CARS 
+
+to Bethesdan
+
+from JFK | Saturday Logistics | column: BOARD (Shared Board responsibility)
+- [11:30 PM] [11:30 PM] Bus 2+3 Leave
+
+ Mit, Anushka, Param, Bhrugu, Kripa, Saloni, Krushi, Kaavya, Ojal, Mun, Kadaru, Team4, Team5, Team6 in Bus2, Bus3 
+
+to Aura Bar
+
+from Bethesdan | Saturday Logistics | column: BOARD
 - Projector and Mic | Friday Board Assignments (Mixer | column: Board
 - Projector and Mic Testing | Friday Board Assignments (Mixer | column: Board
 

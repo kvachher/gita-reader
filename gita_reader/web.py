@@ -39,6 +39,14 @@ def info():
     return _serve_html("info.html")
 
 
+@app.get("/todos_pdf/<path:filename>")
+def todo_pdf(filename: str):
+    path = OUTPUT_DIR / "todos_pdf" / filename
+    if not path.exists():
+        return Response(f"Missing PDF: {filename}. Run: python scripts/regenerate.py", status=404)
+    return send_file(path, mimetype="application/pdf")
+
+
 @app.get("/api/data")
 def data():
     path = OUTPUT_DIR / "all_todos.json"
